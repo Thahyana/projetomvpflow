@@ -1,0 +1,240 @@
+{
+  "registry": "shadcn/ui",
+  "version": "latest",
+  "components": [
+    {
+      "name": "accordion",
+      "category": "Layout & Structure",
+      "description": "Componente de acordeão expansível/colapsável"
+    },
+    {
+      "name": "alert",
+      "category": "Feedback & Notifications",
+      "description": "Alerta/notificação inline"
+    },
+    {
+      "name": "alert-dialog",
+      "category": "Feedback & Notifications",
+      "description": "Diálogo de alerta/confirmação"
+    },
+    {
+      "name": "aspect-ratio",
+      "category": "Layout & Structure",
+      "description": "Componente para manter proporções de aspecto"
+    },
+    {
+      "name": "avatar",
+      "category": "Data Display",
+      "description": "Avatar de usuário com fallback"
+    },
+    {
+      "name": "badge",
+      "category": "Data Display",
+      "description": "Badge/etiqueta com variantes"
+    },
+    {
+      "name": "breadcrumb",
+      "category": "Navigation",
+      "description": "Navegação breadcrumb hierárquica"
+    },
+    {
+      "name": "button",
+      "category": "Forms & Input",
+      "description": "Botão com variantes e tamanhos"
+    },
+    {
+      "name": "calendar",
+      "category": "Calendar & Date",
+      "description": "Calendário interativo"
+    },
+    {
+      "name": "card",
+      "category": "Data Display",
+      "description": "Card/container para conteúdo"
+    },
+    {
+      "name": "carousel",
+      "category": "Media & Content",
+      "description": "Carrossel de imagens/conteúdo"
+    },
+    {
+      "name": "chart",
+      "category": "Data Display",
+      "description": "Gráficos e visualizações (Recharts)"
+    },
+    {
+      "name": "checkbox",
+      "category": "Forms & Input",
+      "description": "Caixa de seleção"
+    },
+    {
+      "name": "command",
+      "category": "Navigation",
+      "description": "Command Palette com busca (⌘K)"
+    },
+    {
+      "name": "context-menu",
+      "category": "Overlays & Menus",
+      "description": "Menu de contexto (right-click)"
+    },
+    {
+      "name": "dialog",
+      "category": "Feedback & Notifications",
+      "description": "Diálogo modal"
+    },
+    {
+      "name": "drawer",
+      "category": "Feedback & Notifications",
+      "description": "Gaveta lateral (mobile-first)"
+    },
+    {
+      "name": "dropdown-menu",
+      "category": "Overlays & Menus",
+      "description": "Menu dropdown"
+    },
+    {
+      "name": "form",
+      "category": "Forms & Input",
+      "description": "Formulário com validação (React Hook Form)"
+    },
+    {
+      "name": "hover-card",
+      "category": "Feedback & Notifications",
+      "description": "Card ao passar o mouse"
+    },
+    {
+      "name": "input",
+      "category": "Forms & Input",
+      "description": "Campo de entrada de texto"
+    },
+    {
+      "name": "input-otp",
+      "category": "Forms & Input",
+      "description": "Input para códigos OTP/verificação"
+    },
+    {
+      "name": "label",
+      "category": "Forms & Input",
+      "description": "Rótulo para formulários"
+    },
+    {
+      "name": "menubar",
+      "category": "Navigation",
+      "description": "Barra de menu horizontal"
+    },
+    {
+      "name": "navigation-menu",
+      "category": "Navigation",
+      "description": "Menu de navegação avançado"
+    },
+    {
+      "name": "pagination",
+      "category": "Navigation",
+      "description": "Paginação de resultados"
+    },
+    {
+      "name": "popover",
+      "category": "Feedback & Notifications",
+      "description": "Popover flutuante posicionado"
+    },
+    {
+      "name": "progress",
+      "category": "Feedback & Notifications",
+      "description": "Barra de progresso"
+    },
+    {
+      "name": "radio-group",
+      "category": "Forms & Input",
+      "description": "Grupo de botões de rádio"
+    },
+    {
+      "name": "resizable",
+      "category": "Layout & Structure",
+      "description": "Painéis redimensionáveis (split panes)"
+    },
+    {
+      "name": "scroll-area",
+      "category": "Media & Content",
+      "description": "Área com scroll customizado"
+    },
+    {
+      "name": "select",
+      "category": "Forms & Input",
+      "description": "Seleção dropdown"
+    },
+    {
+      "name": "separator",
+      "category": "Layout & Structure",
+      "description": "Separador visual horizontal/vertical"
+    },
+    {
+      "name": "sheet",
+      "category": "Layout & Structure",
+      "description": "Painel lateral deslizante (drawer)"
+    },
+    {
+      "name": "sidebar",
+      "category": "Layout & Structure",
+      "description": "Barra lateral de navegação responsiva"
+    },
+    {
+      "name": "skeleton",
+      "category": "Data Display",
+      "description": "Placeholder de carregamento"
+    },
+    {
+      "name": "slider",
+      "category": "Forms & Input",
+      "description": "Controle deslizante (range)"
+    },
+    {
+      "name": "sonner",
+      "category": "Feedback & Notifications",
+      "description": "Sistema de notificações toast (Sonner)"
+    },
+    {
+      "name": "switch",
+      "category": "Forms & Input",
+      "description": "Interruptor toggle"
+    },
+    {
+      "name": "table",
+      "category": "Data Display",
+      "description": "Tabela de dados com ordenação"
+    },
+    {
+      "name": "tabs",
+      "category": "Navigation",
+      "description": "Sistema de abas/tabs"
+    },
+    {
+      "name": "textarea",
+      "category": "Forms & Input",
+      "description": "Área de texto multilinha"
+    },
+    {
+      "name": "toast",
+      "category": "Feedback & Notifications",
+      "description": "Notificações toast (Radix UI)"
+    },
+    {
+      "name": "toggle",
+      "category": "Overlays & Menus",
+      "description": "Botão toggle"
+    },
+    {
+      "name": "toggle-group",
+      "category": "Overlays & Menus",
+      "description": "Grupo de toggles"
+    },
+    {
+      "name": "tooltip",
+      "category": "Feedback & Notifications",
+      "description": "Tooltip informativo"
+    }
+  ],
+  "total": 46,
+  "mcpEnabled": true,
+  "mcpConfigPath": ".cursor/mcp.json"
+}
+
